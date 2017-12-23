@@ -3,14 +3,14 @@
 
 Order this and that right from here, here is what they look like.
 
-### Bin #1
+### mental mama 
 
-for this and that.
+stress relief 
 
-### Bin #2
+### pms pal
 
 for this and that
 
-### Bin #3
+### sickness sidekick 
 
 for this and that
