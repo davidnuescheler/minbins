@@ -1,5 +1,4 @@
 
-
 <img src="minbinslogo.png" width="300" class="center">
 
 Order this and that right from here, here is what they look like.
