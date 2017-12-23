@@ -1,5 +1,5 @@
 
-<img src="minbinslogo.png" width="300" class="center">
+<img src="minbinslogo.png" class="center">
 
 Order this and that right from here, here is what they look like.
 
