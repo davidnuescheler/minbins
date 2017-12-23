@@ -1,7 +1,6 @@
 # MinBins
  
-![alt text](minbinslogo.png)
-<img src="minbinslogo.png" width="100">
+<img src="minbinslogo.png" width="300">
 
 Order this and that right from here, here is what they look like.
 
