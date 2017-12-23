@@ -1,6 +1,6 @@
 # MinBins
  
-![alt text](minbinslogo.png =100x100)
+![alt text](minbinslogo.png)
 
 Order this and that right from here, here is what they look like.
 
