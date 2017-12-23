@@ -1,6 +1,6 @@
-# MinBins
- 
-<img src="minbinslogo.png" width="300">
+
+
+<img src="minbinslogo.png" width="300" align="center">
 
 Order this and that right from here, here is what they look like.
 
