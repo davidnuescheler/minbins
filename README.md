@@ -1,7 +1,9 @@
 
 <img src="minbinslogo.png" class="center">
 
-Order this and that right from here, here is what they look like.
+### PURPOSE 
+
+I belive that my generation is the generation of change.  
 
 ### mental mama 
 
